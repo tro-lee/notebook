@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "bf3e64aff4b44c3c",
+    "id": "fa3606e2d9df0cbd",
     "type": "split",
     "children": [
       {
-        "id": "9c5d5c2e376cde12",
+        "id": "ec4e17362063cc4a",
         "type": "tabs",
         "children": [
           {
-            "id": "b403564baf000f6a",
+            "id": "6772a3e40beb5796",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算理论导论/Ch0.md",
+                "file": "技能树/概括.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e0cf4c1890a9ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技能树/跨端能力/Flutter零碎记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6e7bb857ca7de3d6",
+    "id": "62697f8b2c2c3a3a",
     "type": "split",
     "children": [
       {
-        "id": "a795ebffbfb9d82d",
+        "id": "7e89076a29e42eca",
         "type": "tabs",
         "children": [
           {
-            "id": "f898a6defdca9342",
+            "id": "07d6e3cb5f7cb224",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "8027c92d63c267d8",
+            "id": "052fbf1d1bbde3eb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "5c5d63476ba3dc8b",
+            "id": "3fb67765406e0464",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,64 +82,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "9f51c9376708b5f1",
+    "id": "a54f9fcdf4c47084",
     "type": "split",
     "children": [
       {
-        "id": "52438e1d99cca788",
+        "id": "00bb6398002f8b38",
         "type": "tabs",
         "children": [
           {
-            "id": "581e9637c90a81ff",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "计算理论导论/Ch0.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3dc35f43976c5709",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "计算理论导论/Ch0.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "81f2d2133f6a3288",
+            "id": "5b561325f6840c4f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "0b9fd4206236d1ac",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "计算理论导论/Ch0.md"
               }
             }
           }
@@ -141,14 +114,46 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "terminal:Open terminal": false
     }
   },
-  "active": "f898a6defdca9342",
+  "active": "0e0cf4c1890a9ae2",
   "lastOpenFiles": [
-    "计算理论导论/Ch0.md",
+    "技能树/跨端能力/概括.md",
+    "技能树/跨端能力/Flutter零碎记.md",
+    "DB/事务部分.md",
+    "shu-ju-ku-xiang-guan/shu-ju-ku-ji-chu-gai-nian/README.md",
+    "TCP-IP/http/TLS.md",
+    "TCP-IP/http/CORS.md",
+    "tcpip-xiang-guan/http/README.md",
+    "SUMMARY.md",
     "README.md",
-    "计算理论导论"
+    "TCP-IP/http",
+    "TCP-IP",
+    "shu-ju-ku-xiang-guan/shu-ju-ku-ji-chu-gai-nian",
+    "DB",
+    "notebook/tcpip-xiang-guan/http/tls.md",
+    "notebook/tcpip-xiang-guan/http/cors.md",
+    "notebook/tcpip-xiang-guan/http/README.md",
+    "notebook/tcpip-xiang-guan/http",
+    "notebook/tcpip-xiang-guan",
+    "notebook/shu-ju-ku-xiang-guan/shu-ju-ku-ji-chu-gai-nian/shi-wu-bu-fen.md",
+    "notebook/shu-ju-ku-xiang-guan/shu-ju-ku-ji-chu-gai-nian/README.md",
+    "notebook/shu-ju-ku-xiang-guan/shu-ju-ku-ji-chu-gai-nian",
+    "notebook/shu-ju-ku-xiang-guan",
+    "notebook/SUMMARY.md",
+    "notebook/README.md",
+    "notebook",
+    "技能树/概括.md",
+    "Rabel/简历.md",
+    "Rabel",
+    "技能树/跨端能力.md",
+    "技能树/未命名.md",
+    "欢迎.md"
   ]
 }
